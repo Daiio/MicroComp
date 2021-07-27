@@ -13,7 +13,7 @@ Briefly the inputs are currently designed to be a variable number of csv files--
 
 The output of the model is currently a text output that prints out when the program is run. The printout is a compatibility analysis that expresses for which days in each environment that the microbe was compatible according to the data input. Alongside this, it also prints for each other microbe, which days there was shared compatibility. 
 
-# HOW TO USE
+# HOW TO USE:
 In order to use this program, first input data files need to be generated. Input data files should follow the general formatting of the example files provided for the best results. Spreadsheets that contain the target should be saved in .csv format and placed into the same folder as this downloaded code so they can easily be accessed by the program.
 
 For repeated testing, directly type the names of the filenames for the environmental data as string items in the file_names array on line 24 and comment out lines 76 through 86 (the code is currently setup with this mode in mind and the array is populated with the names of the test environmental files). Alternatively, uncomment lines 76 through 86 and delete the current entries in the array on line 24 to populate the array via inputting file names as the program runs. 
