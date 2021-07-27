@@ -1,0 +1,6 @@
+species,max_temp_values,min_temp_values,max_ph_values,min_ph_values,max_exudate_values,min_exudate_values,max_hum_values,min_hum_values,max_carbon_avail,min_carbon_avail,max_nitrogen_avail,min_nitrogen_avail,max_oxygen_avail,min_oxygen_avail
+Microbe 1,120,10,11,5,80,5,100,54,70,5,80,5,100,60
+Microbe 2,67,51,7.8,7.2,32,12,100,90,46,12,46,30,100,80
+Microbe 3,75,55,7.8,6,40,15,100,76,56,12,67,21,100,87
+Microbe 4,90,75,9,5,50,10,100,43,32,20,32,15,98,75
+Microbe 5,90,50,8,7,50,8,100,45,60,25,43,10,100,90
