@@ -1,5 +1,5 @@
 # MicroComp - Determining Environmental Compatibility Between Microbes and Root Microecosystems
-Created by Daphne Fauber, Hank Krutulis, Kyle Sander, Will Sharpless, & Adam Arkin
+Created by Daphne Fauber, Kyle Sander, Will Sharpless, & Adam Arkin
 
 Work in Progress - Made using Python 3.8.8
 
