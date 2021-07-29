@@ -1,4 +1,4 @@
-# Created by Daphne Fauber, Hank Krutulis, Kyle Sander, Will Sharpless, & Adam Arkin
+# Created by Daphne Fauber, Kyle Sander, Will Sharpless, & Adam Arkin
 # Last Updated July 26, 2021
 
 # Made using Python 3.8.8 
@@ -22,7 +22,6 @@ import csv
 
 # Initilaize global variables
 file_names = ["testData1.csv", "testData2.csv", "testData3.csv"]
-label_names = ["testData1", "testData2", "testData3"]
 comp_data_dict = {}
 microbe_range_data = []
 microbe_one = [[], [], []]
