@@ -1,7 +1,7 @@
 # MicroComp - Determining Environmental Compatibility Between Microbes and Root Microecosystems
 Created by Daphne Fauber, Kyle Sander, Will Sharpless, & Adam Arkin
 
-Work in Progress - Made using Python 3.8.8
+Work-in-Progress --- Made using Python 3.8.8
 
 Notes for future development can be found in the Project section.
 
@@ -23,5 +23,13 @@ Once it is decided how the system will recieve the file names, the program can b
 # LICENSING:
 MicroComp follows the MIT License. 
 
+# LONGTERM VISION:
+This program is a work-in-progress that is currently in an unsophisticated state. Long term, the idea is to use Dynamic Energy Budget (DEB) theory as a form of mechanistic species distribution modeling for the purposes of determining the species distribution of target microbes across the rhizosphere. That information in turn would be used to identify which target microbes have the highest chance of success when paired together from the perspective of complementary physical and spatial needs. In its current state, the program does not include any DEB-related algorithmns, but DEB-related parameters could be utilized in the input.
+
+# INSPIRED BY:
+This work was inspired by pydeb (https://github.com/jornbr/pydeb) and DEBplant (https://github.com/rafaqz/DEBplant)
+
 # ACKNOWLEDGMENTS:
 This work was supported in part by the U.S. Department of Energy, Office of Science, Office of Workforce Development for Teachers and Scientists (WDTS) under the Science Undergraduate Laboratory Internship (SULI) program with Purdue Unversity, Lawrence Berkeley National Laboratory, University of California Berkeley, and the Center for the Utilization of Biological Engineering in Space (CUBES).
+
+This material is based upon work supported by NASA under grant or cooperative agreement award number NNX17AJ31G. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Aeronautics and Space Administration (NASA).
